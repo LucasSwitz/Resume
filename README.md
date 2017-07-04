@@ -1,2 +1,2 @@
-# resume
+# Resume
 Lucas Switzer's Resume
